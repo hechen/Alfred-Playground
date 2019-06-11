@@ -1,2 +1,3 @@
 # Alfred-Playground
-Swift Playground Template
+
+Create a Swift Playground Template for iOS or macOS. 
