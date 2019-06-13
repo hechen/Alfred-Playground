@@ -9,21 +9,20 @@ Create a Swift Playground Template for iOS or macOS.
 3. Blank macOS playground
 4. Single View macOS playground
 
-![Xcode](https://i.imgur.com/JzbB56x.png)
-
+![Xcode](.assets/xcode.png)
 
 ### Prerequisite
 
 After installation, just go to the workflow page, add a global variable named PLAY_ROOT, DO NOT REMOVE other templates, like below.
 
-![Alfred Workflow Setting](https://i.imgur.com/1rebkqa.png)
+![Alfred Workflow Setting](.assets/alfred.png)
 
-![Alfred Preferences](https://i.imgur.com/Zz5HQ3p.png)
+![Alfred Preferences](.assets/alfred_env.png)
 
 
 Done.
 
-![Alfred](https://i.imgur.com/oG3onAj.png)
+![Alfred](.assets/workflow.png)
 
 Click Play to trigger, then input name, or else workflow will generate MyPlayground.playground.  Hit Enter then.
 
